@@ -22,8 +22,7 @@ This project is an interactive Power BI dashboard built to analyze PhonePe trans
  Business Insights using DAX
 
 ## Dashboard Preview
-
-(Add your dashboard screenshot here)
+<img width="1138" height="635" alt="Phone pay dashboard" src="https://github.com/user-attachments/assets/c110e544-bb0e-4b39-a6dd-085e481a616a" />
 
 ## Project Outcome
 
